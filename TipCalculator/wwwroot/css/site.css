@@ -10,7 +10,7 @@ h1 {
 
 label {
     display: inline-block;
-    widht: 10em;
+    widht: 10em; /* Joe if you read this we both know I don't do CSS and I'm leaving this out of spite. Use Bootstrap like a normal person. */
     padding-right: 1em;
 }
 
